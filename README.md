@@ -1,1 +1,1 @@
-# google_homepage
+This is an attempt at recreating Google's homepage usng HTML & CSS. This is the first ever project I have attempted and completed this using a small tutorial guide and actively using the code which was used to build the site.
