@@ -130,8 +130,7 @@ padding: 1rem 1.5rem;
 margin-top: 15rem;
 }
 
-.bottom-left,
-.bottom-right{
+.bottom-left, .bottom-right{
     display: flex;
     gap: 1.8rem;
 }
